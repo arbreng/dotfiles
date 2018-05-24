@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=nemo-desktop
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[C]=Nemo Desktop
+Comment[C]=
+X-GNOME-Autostart-Delay=0

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tilda
+Exec=/usr/bin/tilda
+Icon=/usr/share/pixmaps/tilda.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Application;Utility;TerminalEmulator;
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[C]=Tilda
+Comment[C]=No description
+X-GNOME-Autostart-Delay=0
